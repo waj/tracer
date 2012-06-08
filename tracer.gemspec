@@ -4,8 +4,8 @@ require File.expand_path('../lib/tracer/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Juan Wajnerman"]
   gem.email         = ["jwajnerman@manas.com.ar"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Logging system to trace distributed and structured events}
+  gem.summary       = %q{}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
